@@ -46,7 +46,7 @@ python scripts/select_deepseek_experts.py \
   --percentage 15 --output experts/deepseek_experts_15pct.json
 
 python scripts/select_qwen_experts.py \
-  --trace data/moe_traces_qwen.json \
+  --model "$QWEN_MODEL" --trace data/moe_traces_qwen.json \
   --percentage 10 --output experts/qwen_experts_10pct.json
 ```
 
