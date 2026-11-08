@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""Select DeepSeek routed experts with the MESA/SOTER Sinkhorn objective.
-
-The trace stores 27 rows and 66 columns for DeepSeek-V2-Lite:
-- model layer 0 is dense and has no gate;
-- trace rows 0..25 are logical MoE layers and map to model layers 1..26;
-- columns 0..63 are routed experts;
-- columns 64..65 are shared experts and are excluded.
-"""
-
 import argparse
 import json
 import math
