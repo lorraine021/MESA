@@ -3,7 +3,7 @@ Preserves historical prefill+decode counts and logical layer indexing.
 This is not a prompt-only trace; max_new defaults to 64 for legacy compatibility.
 """
 MODEL_TYPE='qwen3_moe'
-SAMPLE_LIMIT=500
+SAMPLE_LIMIT=50  # rapid
 EXPECTED_MOE_LAYERS=48
 LAYER_OFFSET=0
 import os
