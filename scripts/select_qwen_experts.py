@@ -1,4 +1,4 @@
-"""Select Qwen experts using the same float64 OT numerics as DeepSeek."""
+"""Select Qwen experts."""
 import argparse
 import json
 from pathlib import Path
