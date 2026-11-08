@@ -1,5 +1,7 @@
 # MESA
 
+🌟 Our paper " MESA: Improving MoE Safety Alignment via Decentralized Expertise" has been accepted by ICML2026!
+
 Training and evaluation code for DeepSeek-V2-Lite-Chat and Qwen3-30B-A3B-Instruct. Run the following commands from the repository root. Steps 2–3 are optional if you use the supplied expert JSON files. Our code is built on LLaMA-Factory (Apache-2.0).
 
 ## 1. Prepare environments and model paths
@@ -16,7 +18,7 @@ export QWEN_MODEL=/path/to/Qwen3-30B-A3B-Instruct
 Use complete local Hugging Face model directories. Training data are in
 `data/stair_all.json`.
 
-## 2. Collect expert activation statistics
+## 2. Collect expert activation statistics [Option]
 
 ```bash
 conda activate mesa-evaluation
@@ -34,7 +36,7 @@ python scripts/get_qwen_logits.py \
 
 Each model uses 500 safety and 500 general prompts by default. Statistics include both prompt processing and generation, following the historical collection setup.
 
-## 3. Select experts
+## 3. Select experts [Option]
 
 These commands regenerate the expert JSON files used by the training configs.
 
