@@ -34,7 +34,6 @@ python scripts/get_qwen_logits.py \
   --output_path data/moe_traces_qwen.json
 ```
 
-Each model uses 500 safety and 500 general prompts by default. Statistics include both prompt processing and generation, following the historical collection setup.
 
 ## 3. Select experts [Option]
 
