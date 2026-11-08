@@ -1,0 +1,47 @@
+{
+  "math500.jsonl": {
+    "source_filename": "math500/test.jsonl",
+    "bytes": 446564,
+    "sha256": "35dc41080a3680858b27fa7e0533d2d547825316fc5dafe5d316f4ccc5a06132"
+  },
+  "gsm8k.parquet": {
+    "source_filename": "gsm8k/main/test-00000-of-00001.parquet",
+    "bytes": 419088,
+    "sha256": "ee7b8da9e381df27b9e3f7758a159ab2bdaa4dbaa910546cbbc47e0cb44e4f59"
+  },
+  "humaneval.parquet": {
+    "source_filename": "humaneval/openai_humaneval/test-00000-of-00001.parquet",
+    "bytes": 83920,
+    "sha256": "2f2871a15fbc95b6c683043359f4ed8e144c5a1c4f24f25f66bc51f598dfcfb6"
+  },
+  "mbpp.parquet": {
+    "source_filename": "mbpp/full/test-00000-of-00001.parquet",
+    "bytes": 115824,
+    "sha256": "566fd53060ffba5766dace1d1e2f4c38906781526de222b0dfbdbc325b696c77"
+  },
+  "gpqa.csv": {
+    "source_filename": "gpqa/gpqa_diamond.csv",
+    "bytes": 1373492,
+    "sha256": "41d1213cd7a4998605a26c2798500652572007161b3a92817ba46b35befcd305"
+  },
+  "mmlu.parquet": {
+    "source_filename": "mmlu/all/validation-00000-of-00001.parquet",
+    "bytes": 408449,
+    "sha256": "66cdf0b090ccb657d18d13cd81e31fdc55c3467da9642ffb178653268a97c8ef"
+  },
+  "wildjailbreak.parquet": {
+    "source_filename": "wildjailbreak/data/train-00000-of-00001.parquet",
+    "bytes": 1008927,
+    "sha256": "c812a20544b2b37ba3077a2ce8f39a55ec45ffb96e28f82212d219c5578c6853"
+  },
+  "strongreject.parquet": {
+    "source_filename": "strong-reject/data/train-00000-of-00001.parquet",
+    "bytes": 31289,
+    "sha256": "603aa76bc6d546fc66da1dd5f170e775daa14cbba92ff32d56261987f1eb80e4"
+  },
+  "strata_sword_en_level_3.jsonl": {
+    "source_filename": "strata/strata_sword_en_level_3.jsonl",
+    "bytes": 337760,
+    "sha256": "696c288d2160ed3ae14959fb107286405fedc3f68c721939e78250ecbf95d157"
+  }
+}

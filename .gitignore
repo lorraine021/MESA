@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+outputs/
+models/
+logs/
+.env
+.venv/
+dist/
+build/
+
+data/moe_traces*.json
+
+evaluation/results/

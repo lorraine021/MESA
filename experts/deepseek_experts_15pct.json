@@ -1,0 +1,1531 @@
+{
+  "selected_experts": [
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 2,
+      "f_value": 21.574519230769226
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 5,
+      "f_value": 11.177884615384613
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 7,
+      "f_value": 24.21875
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 10,
+      "f_value": 22.175480769230774
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 11,
+      "f_value": 18.209134615384613
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 41,
+      "f_value": 15.625
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 48,
+      "f_value": 16.34615384615384
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 54,
+      "f_value": 19.53125
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 59,
+      "f_value": 21.875
+    },
+    {
+      "layer_id": 0,
+      "model_layer_id": 1,
+      "expert_id": 63,
+      "f_value": 25.360576923076934
+    },
+    {
+      "layer_id": 1,
+      "model_layer_id": 2,
+      "expert_id": 3,
+      "f_value": 18.02884615384616
+    },
+    {
+      "layer_id": 1,
+      "model_layer_id": 2,
+      "expert_id": 16,
+      "f_value": 18.990384615384613
+    },
+    {
+      "layer_id": 1,
+      "model_layer_id": 2,
+      "expert_id": 26,
+      "f_value": 28.06490384615384
+    },
+    {
+      "layer_id": 1,
+      "model_layer_id": 2,
+      "expert_id": 46,
+      "f_value": 12.980769230769226
+    },
+    {
+      "layer_id": 2,
+      "model_layer_id": 3,
+      "expert_id": 5,
+      "f_value": 25.06009615384616
+    },
+    {
+      "layer_id": 2,
+      "model_layer_id": 3,
+      "expert_id": 22,
+      "f_value": 19.771634615384613
+    },
+    {
+      "layer_id": 2,
+      "model_layer_id": 3,
+      "expert_id": 35,
+      "f_value": 29.507211538461547
+    },
+    {
+      "layer_id": 2,
+      "model_layer_id": 3,
+      "expert_id": 52,
+      "f_value": 7.8125
+    },
+    {
+      "layer_id": 2,
+      "model_layer_id": 3,
+      "expert_id": 55,
+      "f_value": 16.286057692307693
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 22,
+      "f_value": 11.538461538461547
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 23,
+      "f_value": 9.375
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 25,
+      "f_value": 26.141826923076934
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 27,
+      "f_value": 20.37259615384616
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 43,
+      "f_value": 27.163461538461547
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 55,
+      "f_value": 25.0
+    },
+    {
+      "layer_id": 3,
+      "model_layer_id": 4,
+      "expert_id": 57,
+      "f_value": 16.887019230769226
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 3,
+      "f_value": 3.1850961538461604
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 13,
+      "f_value": 34.91586538461539
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 19,
+      "f_value": 15.384615384615387
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 22,
+      "f_value": 12.620192307692307
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 23,
+      "f_value": 27.764423076923066
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 27,
+      "f_value": 15.084134615384613
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 31,
+      "f_value": 23.137019230769226
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 35,
+      "f_value": 30.46875
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 37,
+      "f_value": 14.483173076923066
+    },
+    {
+      "layer_id": 4,
+      "model_layer_id": 5,
+      "expert_id": 57,
+      "f_value": 14.302884615384613
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 2,
+      "f_value": 16.225961538461547
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 5,
+      "f_value": 25.961538461538453
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 16,
+      "f_value": 19.411057692307693
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 18,
+      "f_value": 27.584134615384613
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 36,
+      "f_value": 22.776442307692307
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 37,
+      "f_value": 9.915865384615387
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 40,
+      "f_value": 23.49759615384616
+    },
+    {
+      "layer_id": 5,
+      "model_layer_id": 6,
+      "expert_id": 44,
+      "f_value": 18.389423076923066
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 4,
+      "f_value": 29.146634615384613
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 8,
+      "f_value": 7.572115384615387
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 9,
+      "f_value": 8.954326923076934
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 10,
+      "f_value": 9.014423076923066
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 26,
+      "f_value": 5.288461538461547
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 37,
+      "f_value": 8.59375
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 38,
+      "f_value": 10.09615384615384
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 41,
+      "f_value": 10.637019230769226
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 42,
+      "f_value": 13.882211538461547
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 44,
+      "f_value": 11.237980769230774
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 45,
+      "f_value": 8.293269230769226
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 49,
+      "f_value": 23.978365384615387
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 51,
+      "f_value": 24.15865384615384
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 54,
+      "f_value": 26.682692307692307
+    },
+    {
+      "layer_id": 6,
+      "model_layer_id": 7,
+      "expert_id": 58,
+      "f_value": 20.973557692307693
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 4,
+      "f_value": 18.629807692307693
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 5,
+      "f_value": 15.745192307692307
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 6,
+      "f_value": 17.12740384615384
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 9,
+      "f_value": 29.74759615384616
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 10,
+      "f_value": 24.519230769230774
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 14,
+      "f_value": 20.432692307692307
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 19,
+      "f_value": 20.012019230769226
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 21,
+      "f_value": 25.180288461538453
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 29,
+      "f_value": 15.324519230769226
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 40,
+      "f_value": 14.84375
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 46,
+      "f_value": 6.790865384615387
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 57,
+      "f_value": 16.105769230769226
+    },
+    {
+      "layer_id": 7,
+      "model_layer_id": 8,
+      "expert_id": 61,
+      "f_value": 13.34134615384616
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 23,
+      "f_value": 21.81490384615384
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 26,
+      "f_value": 28.605769230769226
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 31,
+      "f_value": 18.329326923076934
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 35,
+      "f_value": 26.382211538461547
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 39,
+      "f_value": 24.879807692307693
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 44,
+      "f_value": 27.223557692307693
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 54,
+      "f_value": 21.93509615384616
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 58,
+      "f_value": 21.995192307692307
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 60,
+      "f_value": 21.754807692307693
+    },
+    {
+      "layer_id": 8,
+      "model_layer_id": 9,
+      "expert_id": 63,
+      "f_value": 14.723557692307693
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 13,
+      "f_value": 12.139423076923066
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 23,
+      "f_value": 26.923076923076934
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 25,
+      "f_value": 19.711538461538453
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 32,
+      "f_value": 31.730769230769226
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 36,
+      "f_value": 17.90865384615384
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 38,
+      "f_value": 25.84134615384616
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 40,
+      "f_value": 11.117788461538453
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 55,
+      "f_value": 15.024038461538453
+    },
+    {
+      "layer_id": 9,
+      "model_layer_id": 10,
+      "expert_id": 59,
+      "f_value": 8.53365384615384
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 10,
+      "f_value": 15.204326923076934
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 13,
+      "f_value": 7.632211538461547
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 21,
+      "f_value": 24.759615384615387
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 32,
+      "f_value": 36.237980769230774
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 39,
+      "f_value": 14.0625
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 43,
+      "f_value": 14.362980769230774
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 45,
+      "f_value": 24.819711538461547
+    },
+    {
+      "layer_id": 10,
+      "model_layer_id": 11,
+      "expert_id": 52,
+      "f_value": 30.829326923076934
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 16,
+      "f_value": 10.15625
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 18,
+      "f_value": 7.932692307692307
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 25,
+      "f_value": 24.459134615384613
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 33,
+      "f_value": 23.076923076923066
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 34,
+      "f_value": 13.040865384615387
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 37,
+      "f_value": 23.858173076923066
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 41,
+      "f_value": 15.444711538461547
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 52,
+      "f_value": 5.769230769230774
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 59,
+      "f_value": 26.442307692307693
+    },
+    {
+      "layer_id": 11,
+      "model_layer_id": 12,
+      "expert_id": 61,
+      "f_value": 10.516826923076934
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 3,
+      "f_value": 36.29807692307693
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 11,
+      "f_value": 11.899038461538453
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 15,
+      "f_value": 23.317307692307693
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 19,
+      "f_value": 12.56009615384616
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 27,
+      "f_value": 17.427884615384613
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 32,
+      "f_value": 34.25480769230769
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 33,
+      "f_value": 15.865384615384613
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 34,
+      "f_value": 25.240384615384613
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 36,
+      "f_value": 13.401442307692307
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 49,
+      "f_value": 16.706730769230774
+    },
+    {
+      "layer_id": 12,
+      "model_layer_id": 13,
+      "expert_id": 58,
+      "f_value": 14.90384615384616
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 1,
+      "f_value": 3.0048076923076934
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 2,
+      "f_value": 20.673076923076934
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 3,
+      "f_value": 20.853365384615387
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 4,
+      "f_value": 22.355769230769226
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 5,
+      "f_value": 7.391826923076934
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 18,
+      "f_value": 11.71875
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 27,
+      "f_value": 16.526442307692307
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 28,
+      "f_value": 30.889423076923066
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 37,
+      "f_value": 17.487980769230774
+    },
+    {
+      "layer_id": 13,
+      "model_layer_id": 14,
+      "expert_id": 38,
+      "f_value": 16.826923076923066
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 5,
+      "f_value": 21.274038461538453
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 11,
+      "f_value": 12.5
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 15,
+      "f_value": 14.00240384615384
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 27,
+      "f_value": 12.079326923076934
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 42,
+      "f_value": 17.608173076923066
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 43,
+      "f_value": 23.4375
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 45,
+      "f_value": 8.112980769230774
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 46,
+      "f_value": 26.862980769230774
+    },
+    {
+      "layer_id": 14,
+      "model_layer_id": 15,
+      "expert_id": 55,
+      "f_value": 11.358173076923066
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 1,
+      "f_value": 5.649038461538453
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 3,
+      "f_value": 8.173076923076934
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 7,
+      "f_value": 23.016826923076934
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 9,
+      "f_value": 10.276442307692307
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 23,
+      "f_value": 22.475961538461547
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 33,
+      "f_value": 18.68990384615384
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 37,
+      "f_value": 27.463942307692307
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 39,
+      "f_value": 22.836538461538453
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 41,
+      "f_value": 17.24759615384616
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 47,
+      "f_value": 12.860576923076934
+    },
+    {
+      "layer_id": 15,
+      "model_layer_id": 16,
+      "expert_id": 63,
+      "f_value": 17.848557692307693
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 14,
+      "f_value": 17.96875
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 20,
+      "f_value": 22.896634615384613
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 26,
+      "f_value": 5.889423076923066
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 37,
+      "f_value": 22.65625
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 52,
+      "f_value": 15.504807692307693
+    },
+    {
+      "layer_id": 16,
+      "model_layer_id": 17,
+      "expert_id": 61,
+      "f_value": 14.182692307692307
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 1,
+      "f_value": 27.644230769230774
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 18,
+      "f_value": 18.449519230769226
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 19,
+      "f_value": 19.230769230769226
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 26,
+      "f_value": 20.132211538461547
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 45,
+      "f_value": 15.985576923076934
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 46,
+      "f_value": 19.47115384615384
+    },
+    {
+      "layer_id": 17,
+      "model_layer_id": 18,
+      "expert_id": 59,
+      "f_value": 10.21634615384616
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 7,
+      "f_value": 24.93990384615384
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 12,
+      "f_value": 16.40625
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 14,
+      "f_value": 28.004807692307693
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 17,
+      "f_value": 17.728365384615387
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 21,
+      "f_value": 5.709134615384613
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 22,
+      "f_value": 10.697115384615387
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 28,
+      "f_value": 15.144230769230774
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 39,
+      "f_value": 31.911057692307693
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 47,
+      "f_value": 11.298076923076934
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 52,
+      "f_value": 4.086538461538453
+    },
+    {
+      "layer_id": 18,
+      "model_layer_id": 19,
+      "expert_id": 53,
+      "f_value": 10.87740384615384
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 7,
+      "f_value": 14.423076923076934
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 20,
+      "f_value": 23.197115384615387
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 24,
+      "f_value": 18.149038461538453
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 25,
+      "f_value": 21.15384615384616
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 28,
+      "f_value": 25.420673076923066
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 35,
+      "f_value": 13.161057692307693
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 43,
+      "f_value": 9.675480769230774
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 44,
+      "f_value": 18.81009615384616
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 45,
+      "f_value": 11.057692307692307
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 57,
+      "f_value": 17.788461538461547
+    },
+    {
+      "layer_id": 19,
+      "model_layer_id": 20,
+      "expert_id": 60,
+      "f_value": 22.235576923076934
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 2,
+      "f_value": 19.59134615384616
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 6,
+      "f_value": 21.514423076923066
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 15,
+      "f_value": 27.524038461538453
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 22,
+      "f_value": 12.379807692307693
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 23,
+      "f_value": 13.28125
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 32,
+      "f_value": 16.46634615384616
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 46,
+      "f_value": 30.949519230769226
+    },
+    {
+      "layer_id": 20,
+      "model_layer_id": 21,
+      "expert_id": 60,
+      "f_value": 27.103365384615387
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 11,
+      "f_value": 13.762019230769226
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 13,
+      "f_value": 9.194711538461547
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 14,
+      "f_value": 23.557692307692307
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 18,
+      "f_value": 25.480769230769226
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 21,
+      "f_value": 26.983173076923066
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 28,
+      "f_value": 11.77884615384616
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 31,
+      "f_value": 28.665865384615387
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 34,
+      "f_value": 11.959134615384613
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 40,
+      "f_value": 12.43990384615384
+    },
+    {
+      "layer_id": 21,
+      "model_layer_id": 22,
+      "expert_id": 51,
+      "f_value": 23.677884615384613
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 1,
+      "f_value": 34.074519230769226
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 9,
+      "f_value": 28.18509615384616
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 15,
+      "f_value": 17.548076923076934
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 18,
+      "f_value": 8.473557692307693
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 31,
+      "f_value": 16.947115384615387
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 34,
+      "f_value": 21.394230769230774
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 38,
+      "f_value": 28.786057692307693
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 44,
+      "f_value": 7.09134615384616
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 46,
+      "f_value": 8.052884615384613
+    },
+    {
+      "layer_id": 22,
+      "model_layer_id": 23,
+      "expert_id": 61,
+      "f_value": 12.199519230769226
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 2,
+      "f_value": 27.40384615384616
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 4,
+      "f_value": 14.242788461538453
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 11,
+      "f_value": 15.68509615384616
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 13,
+      "f_value": 2.0432692307692264
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 15,
+      "f_value": 18.870192307692307
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 36,
+      "f_value": 8.413461538461547
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 43,
+      "f_value": 28.485576923076934
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 49,
+      "f_value": 9.555288461538453
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 51,
+      "f_value": 8.774038461538453
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 54,
+      "f_value": 9.254807692307693
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 61,
+      "f_value": 19.651442307692307
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 62,
+      "f_value": 10.9375
+    },
+    {
+      "layer_id": 23,
+      "model_layer_id": 24,
+      "expert_id": 63,
+      "f_value": 20.733173076923066
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 1,
+      "f_value": 8.233173076923066
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 5,
+      "f_value": 5.46875
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 16,
+      "f_value": 29.6875
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 19,
+      "f_value": 22.055288461538453
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 24,
+      "f_value": 13.461538461538453
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 31,
+      "f_value": 16.646634615384613
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 35,
+      "f_value": 13.581730769230774
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 40,
+      "f_value": 21.454326923076934
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 44,
+      "f_value": 29.026442307692307
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 45,
+      "f_value": 23.617788461538453
+    },
+    {
+      "layer_id": 24,
+      "model_layer_id": 25,
+      "expert_id": 61,
+      "f_value": 21.09375
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 2,
+      "f_value": 17.668269230769226
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 4,
+      "f_value": 25.600961538461547
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 10,
+      "f_value": 21.334134615384613
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 15,
+      "f_value": 10.396634615384613
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 16,
+      "f_value": 12.019230769230774
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 19,
+      "f_value": 15.264423076923066
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 25,
+      "f_value": 18.509615384615387
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 26,
+      "f_value": 21.634615384615387
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 29,
+      "f_value": 22.536057692307693
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 49,
+      "f_value": 26.081730769230774
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 53,
+      "f_value": 22.295673076923066
+    },
+    {
+      "layer_id": 25,
+      "model_layer_id": 26,
+      "expert_id": 62,
+      "f_value": 20.552884615384613
+    }
+  ],
+  "total_count": 249,
+  "description": "Top 15% DeepSeek routed experts selected by MESA/SOTER Sinkhorn OT",
+  "metadata": {
+    "trace_path": "external/moe_traces_ds.json",
+    "model_path": "models/DeepSeek-V2-Lite-Chat",
+    "source": "MIXED",
+    "records": 1000,
+    "source_counts": {
+      "PKU-SafeRLHF": 500,
+      "UltraFeedback": 500
+    },
+    "raw_trace_shape": [
+      27,
+      66
+    ],
+    "routed_usage_shape": [
+      26,
+      64
+    ],
+    "num_hidden_layers": 27,
+    "first_k_dense_replace": 1,
+    "num_moe_layers": 26,
+    "num_routed_experts": 64,
+    "num_shared_experts_excluded": 2,
+    "logical_to_model_layer_offset": 1,
+    "percentage": 15.0,
+    "epsilon": 0.01,
+    "max_iter": 100,
+    "cost_alpha": 1.0,
+    "cost_beta": 2.0,
+    "shift_value": 20.0,
+    "transport_mass": 1.0
+  }
+}
